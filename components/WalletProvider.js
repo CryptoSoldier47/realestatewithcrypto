@@ -1,0 +1,1 @@
+export default function WalletProvider({children}){return <>{children}</>}

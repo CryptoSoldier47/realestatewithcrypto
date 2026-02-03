@@ -1,0 +1,1 @@
+export default function EscrowPay(){return <button>Pay Escrow</button>}

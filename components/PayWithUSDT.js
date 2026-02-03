@@ -1,0 +1,1 @@
+export default function PayWithUSDT(){return <button>Pay USDT</button>}

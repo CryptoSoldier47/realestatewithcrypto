@@ -1,0 +1,1 @@
+export default function AdminDocs(){return <div>KYC Documents</div>}
