@@ -1,1 +1,0 @@
-export default function AdminEscrow(){return <div>Admin Escrow Panel</div>}

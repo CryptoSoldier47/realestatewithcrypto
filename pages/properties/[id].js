@@ -1,1 +1,0 @@
-export default function Property(){return <div>Property Details</div>}

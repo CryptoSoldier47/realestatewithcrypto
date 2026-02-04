@@ -1,1 +1,0 @@
-export default function Seller(){return <div>Seller Dashboard</div>}
